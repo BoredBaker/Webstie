@@ -1,6 +1,6 @@
 Hey, I'm Addie and this is my github website. 🎉
 
-I'm doing this for my Advanced Computer Science project. My friend Kindal added a page to this as well as another part of the assignment. You should check it out here: [https://boredbaker.github.io/Webstie/second]()
+I'm doing this for my Advanced Computer Science project. My friend Kindal added a page to this as well as another part of the assignment. You should check it out here: 
 
 You should come to Dexter. It a private school in Wichita Falls, TX, and it's pretty cool. Some examples are when we had a DJ at school on just a regular Friday, when we got to pie teachers in the face, how we're painting all the walls for an art project, or how we held a robotics competition.
 
@@ -11,6 +11,6 @@ WFBT, the ballet company I am in, is performing it as a ballet in May.
 It will be ✨VERY✨ cool. There will be some pretty extreme special effects.
 There are also different styles of dance.
 
-For more information or to buy tickets, visit [Uploading Alice in Wonderland – Wichita Falls Ballet Theatre - Wichita Falls MPEC.url…]()
+For more information or to buy tickets, visit [https://wfmpec.com/event/alice-in-wonderland-wichita-falls-ballet-theatre/](https://wfmpec.com/event/alice-in-wonderland-wichita-falls-ballet-theatre/)
 
 ![alice in wonderland](https://user-images.githubusercontent.com/100547210/156968576-ae6ba709-c364-4746-b97e-2815e6883039.jpg)
