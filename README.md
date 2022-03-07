@@ -1,6 +1,6 @@
 Hey, I'm Addie and this is my github website. 🎉
 
-I'm doing this for my Advanced Computer Science project. 
+I'm doing this for my Advanced Computer Science project. My friend Kindal added a page to this as well as another part of the assignment. You should check it out here: [https://boredbaker.github.io/Webstie/second]()
 
 You should come to Dexter. It a private school in Wichita Falls, TX, and it's pretty cool. Some examples are when we had a DJ at school on just a regular Friday, when we got to pie teachers in the face, how we're painting all the walls for an art project, or how we held a robotics competition.
 
